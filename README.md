@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable Internet Services 1
+- Install Mysgl 2
+- Install C++ Redistributable 3
+- Install Webplatform 4
+- Configure permission 5
 
 <h2>Installation Steps</h2>
 
@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+I'm working on something big which i will display to you very soon.
 </p>
 <br />
 
@@ -42,7 +42,7 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+I'm working on something big which i will display to you very soon.
 </p>
 <br />
 
@@ -50,6 +50,6 @@ It is important to take care of the patient, to be followed by the doctor, but i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+I'm working on something big which i will display to you very soon.
 </p>
 <br />
